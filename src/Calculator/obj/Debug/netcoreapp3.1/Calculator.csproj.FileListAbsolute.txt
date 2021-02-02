@@ -1,0 +1,13 @@
+D:\Felix\Jobb\Programmeringsprojekt\calculator\src\Calculator\bin\Debug\netcoreapp3.1\Calculator.exe
+D:\Felix\Jobb\Programmeringsprojekt\calculator\src\Calculator\bin\Debug\netcoreapp3.1\Calculator.deps.json
+D:\Felix\Jobb\Programmeringsprojekt\calculator\src\Calculator\bin\Debug\netcoreapp3.1\Calculator.runtimeconfig.json
+D:\Felix\Jobb\Programmeringsprojekt\calculator\src\Calculator\bin\Debug\netcoreapp3.1\Calculator.runtimeconfig.dev.json
+D:\Felix\Jobb\Programmeringsprojekt\calculator\src\Calculator\bin\Debug\netcoreapp3.1\Calculator.dll
+D:\Felix\Jobb\Programmeringsprojekt\calculator\src\Calculator\bin\Debug\netcoreapp3.1\Calculator.pdb
+D:\Felix\Jobb\Programmeringsprojekt\calculator\src\Calculator\obj\Debug\netcoreapp3.1\Calculator.csprojAssemblyReference.cache
+D:\Felix\Jobb\Programmeringsprojekt\calculator\src\Calculator\obj\Debug\netcoreapp3.1\Calculator.AssemblyInfoInputs.cache
+D:\Felix\Jobb\Programmeringsprojekt\calculator\src\Calculator\obj\Debug\netcoreapp3.1\Calculator.AssemblyInfo.cs
+D:\Felix\Jobb\Programmeringsprojekt\calculator\src\Calculator\obj\Debug\netcoreapp3.1\Calculator.csproj.CoreCompileInputs.cache
+D:\Felix\Jobb\Programmeringsprojekt\calculator\src\Calculator\obj\Debug\netcoreapp3.1\Calculator.dll
+D:\Felix\Jobb\Programmeringsprojekt\calculator\src\Calculator\obj\Debug\netcoreapp3.1\Calculator.pdb
+D:\Felix\Jobb\Programmeringsprojekt\calculator\src\Calculator\obj\Debug\netcoreapp3.1\Calculator.genruntimeconfig.cache
